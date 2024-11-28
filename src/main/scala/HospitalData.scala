@@ -1,4 +1,4 @@
-case class hospitalData(
+case class HospitalData(
                        date:String, //date
                        state:String, //state names
                        beds:Int, //total hosp beds
